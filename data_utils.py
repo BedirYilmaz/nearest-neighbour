@@ -1,3 +1,6 @@
+# from cs231 class notes of Stanford University
+# Stanford Universitesinin cs231 dersinin notlarindan
+
 import cPickle as pickle
 import numpy as np
 import os
